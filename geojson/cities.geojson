@@ -1,0 +1,434 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.622314453125,
+          35.074964853989556
+        ]
+      },
+      "properties": {
+        "name": "Albuquerque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.540283203125,
+          35.585851593232356
+        ]
+      },
+      "properties": {
+        "name": "Asheville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39800262451172,
+          33.74746591949784
+        ]
+      },
+      "properties": {
+        "name": "Atlanta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.98135375976562,
+          33.47039910425851
+        ]
+      },
+      "properties": {
+        "name": "Augusta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.73712158203125,
+          30.261439550638762
+        ]
+      },
+      "properties": {
+        "name": "Austin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28332519531249,
+          37.844494798834575
+        ]
+      },
+      "properties": {
+        "name": "Berkeley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.802978515625,
+          33.4955977448657
+        ]
+      },
+      "properties": {
+        "name": "Birmingham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2490234375,
+          39.9897471840457
+        ]
+      },
+      "properties": {
+        "name": "Boulder"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93798828125,
+          40.65563874006115
+        ]
+      },
+      "properties": {
+        "name": "Brooklyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.24810791015625,
+          42.939333889259814
+        ]
+      },
+      "properties": {
+        "name": "Cassville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8040771484375,
+          38.83542884007303
+        ]
+      },
+      "properties": {
+        "name": "Colorado Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5181884765625,
+          40.373751366720505
+        ]
+      },
+      "properties": {
+        "name": "Estes Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.76107025146484,
+          43.478335177486144
+        ]
+      },
+      "properties": {
+        "name": "Jackson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.82885742187499,
+          33.902336404480685
+        ]
+      },
+      "properties": {
+        "name": "Joshua Tree"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24859619140626,
+          34.04014265821754
+        ]
+      },
+      "properties": {
+        "name": "LA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30416870117188,
+          40.034975075009804
+        ]
+      },
+      "properties": {
+        "name": "Lancaster"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.15869140624999,
+          36.12900165569652
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.28515625,
+          34.73709847578162
+        ]
+      },
+      "properties": {
+        "name": "Little Rock"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.90704345703124,
+          36.589068371399115
+        ]
+      },
+      "properties": {
+        "name": "Monterey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78375244140625,
+          36.16005298551354
+        ]
+      },
+      "properties": {
+        "name": "Nashville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.120849609375,
+          29.945415337104453
+        ]
+      },
+      "properties": {
+        "name": "New Orleans"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6463623046875,
+          35.97133794592998
+        ]
+      },
+      "properties": {
+        "name": "Outer Banks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.157470703125,
+          39.9476478239225
+        ]
+      },
+      "properties": {
+        "name": "Philadelphia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.662353515625,
+          45.51212126820532
+        ]
+      },
+      "properties": {
+        "name": "Portland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.27679443359375,
+          43.65594991256823
+        ]
+      },
+      "properties": {
+        "name": "Portland, ME"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4056396484375,
+          41.80817277478235
+        ]
+      },
+      "properties": {
+        "name": "Providence"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43438720703125,
+          37.5249753680482
+        ]
+      },
+      "properties": {
+        "name": "Richmond"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.147216796875,
+          32.702955550965584
+        ]
+      },
+      "properties": {
+        "name": "San Diego"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.10107421874999,
+          32.04184065020709
+        ]
+      },
+      "properties": {
+        "name": "Savannah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42752075195314,
+          47.226096795477204
+        ]
+      },
+      "properties": {
+        "name": "Tacoma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03887939453125,
+          38.89744587262311
+        ]
+      },
+      "properties": {
+        "name": "Washington, D.C."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.60060119628905,
+          37.735969208590504
+        ]
+      },
+      "properties": {
+        "name": "Yosemite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.98065185546874,
+          37.20298773974217
+        ]
+      },
+      "properties": {
+        "name": "Zion"
+      }
+    }
+  ]
+}
