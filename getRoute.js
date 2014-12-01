@@ -8,9 +8,8 @@ var Promise = require('es6-promise').Promise,
 var output = "geojson/temp.json", // name of the output file
     start = "",
     end = "",
-    waypoints = [
-      {'location': ''}
-    ];
+    // waypoints is a string with values separated by |
+    waypoints = "";
 
 var apiKey = fs.readFile('config-gmaps', function(err, data){
   if (err) {
@@ -36,7 +35,7 @@ function getGoogleRouteInformation(origin, destination, waypoints) {
       }
     };
 
-    googlemaps.directions(origin, destination, handleResponse, null, null, waypoints);
+    googlemaps.directions(origin, destination, handleResponse, false, false, waypoints);
     });
 }
 
