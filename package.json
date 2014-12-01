@@ -1,0 +1,17 @@
+{
+  "name": "gmaps-to-geojson",
+  "version": "0.0.1",
+  "description": "Module to request Google Maps directions data and convert the resulting path to geoJSON for use in data visualization.",
+  "author": "Winston Hearn <winston@wnstn.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wnstn/roadtripData.git"
+  },
+  "dependencies": {
+    "es6-promise": "~2.0.0",
+    "geoJSON": "0.2.0",
+    "googlemaps": "0.1.20",
+    "polyline": "0.0.3"
+  },
+  "license": "MIT"
+}
