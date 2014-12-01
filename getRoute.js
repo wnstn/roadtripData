@@ -5,7 +5,7 @@ var Promise = require('es6-promise').Promise,
     fs = require('fs'),
     util = require('util');
 
-var output = "geojson/temp.json", // name of the output file
+var output = "", // name of the output file
     start = "",
     end = "",
     // waypoints is a string with values separated by |
@@ -84,7 +84,7 @@ getGoogleRouteInformation(start, end, waypoints)
 // Write out the file
 .then(function(geoData){
 
-  fs.writeFile(output, JSON.stringify(geoData, null, 2));
+  fs.writeFile('geojson/' + output + '.geojson', JSON.stringify(geoData, null, 2));
 
   util.puts('Successfully created file ' + output)
 
